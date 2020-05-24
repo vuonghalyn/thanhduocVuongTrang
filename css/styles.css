@@ -1,0 +1,31 @@
+#title {
+  background-color: #608A31;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.firsttext {
+  font-family: 'Roboto Slab', serif;
+  font-size: 3rem;
+  line-height: 2;
+}
+
+.mainpoints {
+  padding: 10% 10% 10% 10% font-family: 'Roboto', sans-serif;
+}
+
+.testimonial {
+  padding: 0% 10% 10% 10%;
+}
+
+.mainlisting{
+  padding: 3% 15%;
+  position: relative;
+}
+
+
+.listing{
+  padding: 3% 15%;
+}
